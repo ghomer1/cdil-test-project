@@ -1,6 +1,6 @@
 # cdil-test-project
 
-This is a test project using the CollectionBuilder tools for the CDIL digital bootcamp 2026. 
+This is a test project using the CollectionBuilder tools for the CDIL digital camp 2026. 
 
 
 
